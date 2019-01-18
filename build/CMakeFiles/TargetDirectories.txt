@@ -1,0 +1,2 @@
+/net/t/abenlahcen/Desktop/Pg_reseaux/build/jalon01/CMakeFiles/client.dir
+/net/t/abenlahcen/Desktop/Pg_reseaux/build/jalon01/CMakeFiles/server.dir

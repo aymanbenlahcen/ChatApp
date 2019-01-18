@@ -1,0 +1,1 @@
+/usr/bin/cc  -g    CMakeFiles/client.dir/client.c.o CMakeFiles/client.dir/seech.c.o CMakeFiles/client.dir/clech.c.o  -o client -rdynamic -lpthread 
